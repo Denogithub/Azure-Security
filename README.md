@@ -1,2 +1,2 @@
 # Azure-Security AZ-500 #
-Azure Cloud Security
+Azure Cloud Security Engineer
